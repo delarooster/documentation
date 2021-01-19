@@ -62,6 +62,12 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
         3. ExpressVPN
         4. Surfshark
 2. Back up your data to a home server (perhaps using a RAID configuration)
-3. Switch from using your ISP's DNS to a 3rd party DNS
+3. Switch from using your ISP's DNS to a 3rd party DNS (e.g. OpenDNS)
 4. Secure your work only using paid, proven, and security-first cloud provider services
 5. Clean your cache, bookmarks, history in web browser after EVERY visit (when you close the browser)
+
+## Tech Nerd / Paranoid
+1. Root your phone
+2. Use a disposable OS on thumb drive
+3. Buy a house in the Alaskan wilderness and refuse all tech created after 1924
+
