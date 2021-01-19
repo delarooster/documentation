@@ -53,6 +53,8 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
 
 ## Advanced
 1. Use a VPN
+   * Use on each device (computers, cell phones, Xbox)
+      - can use on home router to protect ALL devices on home network
    * Protect your IP address from being tracked by sites
    * Encrypt your data
    * Shield your web activity from your ISP (Internet Service Provider)
