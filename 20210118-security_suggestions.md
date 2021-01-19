@@ -62,5 +62,6 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
         3. ExpressVPN
         4. Surfshark
 2. Back up your data to a home server (perhaps using a RAID configuration)
-3. Secure your work only using paid, proven, and security-first cloud provider services
-4. Clean your cache, bookmarks, history in web browser after EVERY visit (when you close the browser)
+3. Switch from using your ISP's DNS to a 3rd party DNS
+4. Secure your work only using paid, proven, and security-first cloud provider services
+5. Clean your cache, bookmarks, history in web browser after EVERY visit (when you close the browser)
