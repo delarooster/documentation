@@ -24,14 +24,14 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
    * Don’t sign in on your browser
    * Be wary of Browser Fingerprinting (Brave has the option to disable this)
    * Avoid using Google search engine when possible (and their products too, if you can help it)
-5. Don't Use Voice Texting Features
+5. Avoid using Voice Texting Features
    * Your keyboard on your smartphone needs to send everything you say to Google Servers
    * Keeps a record of everything you sent to it to "help" you with difficult words or phrases
 6. Choose a Privacy-Focused Search Engine
    * DuckDuckGo
    * Don’t Share Location With Apps
-    - By default, disable GPS location on your device
-    - Go through all app settings and disable location access for all apps that don’t need it
+       - By default, disable GPS location on your device
+       - Go through all app settings and disable location access for all apps that don’t need it
    * Disable all [Google Activity settings](myactivity.google.com/myactivity)
 
 ## Intermediate
