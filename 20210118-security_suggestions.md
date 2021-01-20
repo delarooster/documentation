@@ -8,6 +8,7 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
 ## Beginner
 * **Reminder: None of our communications online, text messages, or calls are private**.
 * "100% security" or "bulletproof" is a myth, no matter what a security system might indicate.
+   - In today's world the goal is to make it a _little_ more difficult for those with nefarious intentions to track you, to log you, to know each and every detail about you. In this way you make yourself a more formidable target and, likely, the culprit is apt to move on to an easier choice for prey.  Ultimately, like many animals in the wild, we want them to choose to leave us alone by making our information, our privacy, more difficult to assert than the next possible victim.
 
 1. Change passwords for each and every site
     * Easiest method is to write passwords down on a physical medium
@@ -29,8 +30,8 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
 6. Choose a Privacy-Focused Search Engine
    * DuckDuckGo
    * Don’t Share Location With Apps
-   * By default, disable GPS location on your device
-   * Go through all app settings and disable location access for all apps that don’t need it
+    - By default, disable GPS location on your device
+    - Go through all app settings and disable location access for all apps that don’t need it
    * Disable all [Google Activity settings](myactivity.google.com/myactivity)
 
 ## Intermediate
@@ -45,16 +46,17 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
    * Keep track of your passwords with one master password (that is plenty long and only YOU know!)
    * Have built-in generators that will easily create difficult passwords for computers to hack
 4. Enable 2 Factor Authentication
-   * Enable 2 factor authentication whenever available
    * Requires authentication with a physical device that is specific to you
-   * Some password managers offer solutions to make this easier
+   * Some password managers offer solutions to make this easier   
+   * Enable 2 factor authentication whenever available
 5. Use a secure cloud storage provider, like pCloud, NordLocker, etc (there are other options available)
-6. Secure all your images, documents, music, etc on a home computer
+   * Cloud options, while handy, always come with caveats: the "cloud" is _always_ just "someone else's computer"
+   * There has to be a physical device _somewhere_: where would *you* like that information to reside?
 
 ## Advanced
 1. Use a VPN
-   * Use on each device (computers, cell phones, Xbox)
-      - can use on home router to protect ALL devices on home network
+   * Use on each device (computers, cell phones, Xbox, etc)
+      - can use on home router to blanket protect ALL devices connected to home network
    * Protect your IP address from being tracked by sites
    * Encrypt your data
    * Shield your web activity from your ISP (Internet Service Provider)
@@ -63,10 +65,15 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
         2. ProtonVPN
         3. ExpressVPN
         4. Surfshark
-2. Back up your data to a home server (perhaps using a RAID configuration)
+2. Back up your data to a home server
+   * More safe on the internet is simply not being ON the internet or connected to the internet, and done securely at temporarily when needed
+   * Secure all your archive images, documents, music, etc on a home computer for later perusal
+   * Set up RAID configuration for your hard drives to assist redundancy and backup (physical media, even disks, eventually DO fail) 
 3. Switch from using your ISP's DNS to a 3rd party DNS (e.g. OpenDNS)
 4. Secure your work only using paid, proven, and security-first cloud provider services
 5. Clean your cache, bookmarks, history in web browser after EVERY visit (when you close the browser)
+   * Attempt is to "clean" the fingerprint of your personality once you leave using a browser for that session
+   * This makes it more difficult to track and to triangulate your particular person that is browsing the interwebs
 
 ## Tech Nerd / Paranoid
 1. Root your phone
