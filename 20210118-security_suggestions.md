@@ -15,8 +15,9 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
 1. Change passwords for each and every site
     * Easiest method is to write passwords down on a physical medium
     * Computers do not care about numbers, special characters, or other fancy text; to a computer it is all the same
-    * [LENGTH is the only certain means](https://xkcd.com/936/) to slow down an algorithm from breaking your password in a reasonable time (recommend 16 or more characters for a strong password)
-2. If a private matter is to be discussed, do it in person
+    * [LENGTH is the only certain means](https://xkcd.com/936/) to slow down an algorithm from breaking your password in a reasonable time
+      - Recommend 16 or more characters for a strong password (https://xkcd.com/936/)
+2. If a private matter is to be discussed, do it **in person**
    * Hard to crack low-tech solutions
 3. Refrain from logging onto a computer, or a network, that you do not own
    * The most common and easiest way for thieves to steal your identity is for you to use a computer that is rigged or a network that is compromised.  
@@ -34,7 +35,7 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
    * Don’t Share Location With Apps
        - By default, disable GPS location on your device
        - Go through all app settings and disable location access for all apps that don’t need it
-   * Disable all [Google Activity settings](myactivity.google.com/myactivity)
+   * Disable all [Google Activity settings](myactivity.google.com/myactivity) (myactivity.google.com/myactivity)
 
 ## Intermediate
 
@@ -82,7 +83,7 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
    * This makes it more difficult to track and to triangulate your particular person that is browsing the interwebs
 
 ## Tech Nerd / Paranoid
-1. Root your phone
-2. Use a disposable OS on thumb drive
-3. Buy a house in the Alaskan wilderness and refuse all tech created after 1924
-
+1. [Root your phone](https://www.androidpolice.com/2020/06/09/install-use-custom-rom-no-google-apps/) (https://www.androidpolice.com/2020/06/09/install-use-custom-rom-no-google-apps/)
+2. Buy a [Faraday bag](https://godarkbags.com/) to disable all cell phone activity and location tracking (https://godarkbags.com/)
+3. Use a [disposable OS on thumb drive](http://puppylinux.com/) (http://puppylinux.com/)
+4. Buy a house in the [Alaskan wilderness](https://www.akhomeshow.com/alaska-log-homes/) and refuse all tech created after 1924 (https://www.akhomeshow.com/alaska-log-homes/)
