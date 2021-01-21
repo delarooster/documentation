@@ -6,9 +6,11 @@ What we say, what we do, and who we interact with has an immediate and direct ef
 Below are a few ideas that you might incorporate (or already be doing!) that can help you to maintain as much privacy as possible.
 
 ## Beginner
-* **Reminder: None of our communications online, text messages, or calls are private**.
-* "100% security" or "bulletproof" is a myth, no matter what a security system might indicate.
-   - In today's world the goal is to make it a _little_ more difficult for those with nefarious intentions to track you, to log you, to know each and every detail about you. In this way you make yourself a more formidable target and, likely, the culprit is apt to move on to an easier choice for prey.  Ultimately, like many animals in the wild, we want them to choose to leave us alone by making our information, our privacy, more difficult to assert than the next possible victim.
+**Reminder: None of our communications online, text messages, or calls are private**.
+
+"100% security" or "bulletproof" is a myth, no matter what a security system might indicate. In today's world the goal is to make it a _little_ more difficult for those with nefarious intentions to track you, to log you, to know each and every detail about you. In this way you make yourself a more formidable target and, likely, the culprit is apt to move on to an easier choice for prey.  Ultimately, like many animals in the wild, we want them to choose to leave us alone by making our information, our privacy, more difficult to assert than the next possible victim.
+
+### Tips
 
 1. Change passwords for each and every site
     * Easiest method is to write passwords down on a physical medium
@@ -35,6 +37,8 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
    * Disable all [Google Activity settings](myactivity.google.com/myactivity)
 
 ## Intermediate
+
+### Tips
 1. Seek out a secure email provider
    * The old adage, "If you didn't PAY for the product, **YOU** are the product."
    * Google reads all of your email: All of it. Always. Even drafts.
@@ -54,6 +58,8 @@ Below are a few ideas that you might incorporate (or already be doing!) that can
    * There has to be a physical device _somewhere_: where would *you* like that information to reside?
 
 ## Advanced
+
+### Tips
 1. Use a VPN
    * Use on each device (computers, cell phones, Xbox, etc)
       - can use on home router to blanket protect ALL devices connected to home network
