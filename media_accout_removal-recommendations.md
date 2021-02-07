@@ -1,5 +1,13 @@
-# Tech Recommendations
+# Social Media and Tech Recommendations
+## Move away from Facebook
+### Delete Facebook account
+1. Download all Facebook content: https://www.lifewire.com/back-up-your-facebook-data-2655254
+2. Delete Facebook permanently: https://www.lifewire.com/delete-facebook-5072225
 
+## Move away from Instagram
+1. Delete Instagram account: https://social.techjunkie.com/permanently-delete-instagram-account/
+## Move away from Twitter
+1. Delete Twitter account: https://famoid.com/delete-twitter-account-permanently/
 ## Move away from Google
 * Read about all the data Google is tracking about you: https://privacy.google.com/your-data.html
 ### Gmail (Google Email)
@@ -34,15 +42,6 @@
 
 ### Remove all content from Amazon
 * https://www.usatoday.com/story/tech/columnist/saltzman/2018/04/04/amazon-and-alexa-know-whole-lot-you-heres-how-download-and-delete-info/482286002/
-## Move away from Facebook
-### Delete Facebook account
-1. Download all Facebook content: https://www.lifewire.com/back-up-your-facebook-data-2655254
-2. Delete Facebook permanently: https://www.lifewire.com/delete-facebook-5072225
-
-### Delete Instagram account
-1. Delete Instagram account: https://social.techjunkie.com/permanently-delete-instagram-account/
-## Move away from Twitter
-1. Delete Twitter account: https://famoid.com/delete-twitter-account-permanently/
 
 ## Others
 #### SnapChat
